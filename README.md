@@ -10,6 +10,9 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 
 [Alka Trivedi](https://github.com/alkatrivedi)
 
+[Sampada Kathar](https://github.com/AlacritousCreature)
+
+
 ## Packages Requirements
 | Packages Required      | installation commands       |
 | -------------| ------------- |
