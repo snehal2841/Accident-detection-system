@@ -8,6 +8,8 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 
 [Snehal Suryavanshi](https://github.com/snehal2841)
 
+[Alka Trivedi](https://github.com/alkatrivedi)
+
 ## Packages Requirements
 | Packages Required      | installation commands       |
 | -------------| ------------- |
