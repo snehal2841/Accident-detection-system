@@ -8,10 +8,12 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 
 [Snehal Suryavanshi](https://github.com/snehal2841)
 
+[Sampada Kathar](https://github.com/AlacritousCreature)
+
 ## Packages Requirements
 | Packages Required      | installation commands       |
 | -------------| ------------- |
-| cv2          | pip install opencv-python |
+| cv2          | pip install opencv-python
 | numpy        | pip install numpy  |
 | tensorflow   | pip install tensorflow|
 | patool       | pip install patool|
