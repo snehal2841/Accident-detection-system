@@ -5,6 +5,7 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 
 ## Contributors
 [Yukta Gopalani](https://github.com/yuktagopalani)
+
 [Snehal Suryavanshi](https://github.com/snehal2841)
 
 ## Packages Requirements
