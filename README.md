@@ -11,7 +11,7 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 ## Packages Requirements
 | Packages Required      | installation commands       |
 | -------------| ------------- |
-| cv2          | pip install opencv-python
+| cv2          | pip install opencv-python |
 | numpy        | pip install numpy  |
 | tensorflow   | pip install tensorflow|
 | patool       | pip install patool|
