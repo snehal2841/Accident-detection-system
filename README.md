@@ -14,6 +14,7 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 
 [Asha Jyothi Donga](https://github.com/asha24102001)
 
+[Taniya Adil](https://github.com/Taniya0501)
 
 ## Packages Requirements
 | Packages Required      | installation commands       |
