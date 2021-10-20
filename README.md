@@ -9,10 +9,12 @@ This Repository contains the Video-based Accident Detection System built in Pyth
 [Snehal Suryavanshi](https://github.com/snehal2841)
 
 ## Packages Requirements
-cv2 (pip install opencv-python)
-tensorflow (pip install tensorflow)
-numpy (pip install numpy)
-patool (pip install patool)
+| Packages Required      | installation commands       |
+| -------------| ------------- |
+| cv2          | pip install opencv-python
+| numpy        | pip install numpy  |
+| tensorflow   | pip install tensorflow|
+| patool       | pip install patool|
 
 ## Instruction to Run the Project
 1. Clone the repository into your system using the command "git clone https://github.com/snehal2841/Accident-detection-system.git "
