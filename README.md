@@ -39,8 +39,6 @@ For training we have used following standard dataset.
 2) ACD3( Accident Detection dataset, Unsupervised Traffic Accident Detection in First-Person Videos)
 3) CADP (Unsupervised Traffic Accident Detection in First-Person Videos)
 
-<video width="320" height="240" controls>
-  <source src="demovideo.mp4" type="video/mp4">
-</video>
+![watch the demo of the project](https://github.com/snehal2841/Accident-detection-system/blob/main/demovideo.mp4)
 
 The dataset for this project is a video. That is present in the repository as "testvideo.mp4".
